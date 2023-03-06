@@ -1,16 +1,18 @@
-# hoja-de-vida
-!![WIN_20230227_08_27_59_Pro](https://user-images.githubusercontent.com/126476649/221582934-2a21c1cc-d04b-451b-9c7b-02dc8c87e330.jpg)
 
-## DATOS PERSONALES
-|NOMBRE       |jesus david caballero  avendaño|
-|-------------|--------------------|
-|FECHA DE NACIMIENTO|09/10/2005|
-TI         |1048276752|
-TELEFONO|3046719847|
-CORREO|jesusdvid823@gmail.com|
+# hoja de vida 
 
-### ESTUDIOS
-|COLEGIO  |I.E.T.I JOSE CASTILLO BOLIVAR|
-|---------------|-----------------|
-|COLEGIO| I.E.D CRISTO REY  |
-|SENA  |  ADSO2|
+<a href="https://ibb.co/X4NPLwv"><img src="https://i.ibb.co/X4NPLwv/IMG-20211231-WA0057.jpg" alt="IMG-20211231-WA0057" border="0"></a>
+# Informacion personal 
+|Nombre completo|Ailin katyuska Aguilar Amaya|
+|---|---|
+|Fecha y lugar de nacimiento| 19/07/2005  Venezuela|
+|Sexo| Femenino|
+|Estado civil| Soltero|
+| Dirección | calle2 #198|
+|TI|1236440702|
+|Teléfono|3122408262|
+|email| ailin.caguilar@gmail.com|
+# Formación académica 
+|Colegio| Institución educativa bohorquez|
+|---|---|
+|Sena| ADSO|
