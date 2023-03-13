@@ -7,8 +7,7 @@
 |TI  |1048276752|
 |TELEFONO |3046719847|
 |CORREO|jesusdvid823@gmail.com|
-|CORREO SENA|NO  |
-
+|USUARIO GITHUB|jesusdcaballero|
 ###  ESTUDIOS
 |COLEGIO| I.E.T.I JOSE CASTILLO BOLIVAR|
 |---------|--------------|
